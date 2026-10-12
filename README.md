@@ -1,6 +1,6 @@
 # NTUA ECE Sensors and Microsystems Technology Course
 
-This repository showcases the laboratory exercises, Arduino source codes, and project reports I completed during the Sensors and Microsystems Technology course at NTUA. Through this coursework, I gained practical experience in sensor characterization, data acquisition, and embedded systems programming using microcontrollers.
+This repository showcases the laboratory exercises, Arduino source codes, and project reports I completed during the Sensors and Microsystems Technology course at NTUA. Through this coursework, I strengthened my skills in sensor characterization, data acquisition, and embedded systems programming using microcontrollers.
 
 ## Laboratory Exercises
 
