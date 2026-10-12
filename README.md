@@ -4,7 +4,7 @@ This repository showcases the laboratory exercises, Arduino source codes, and pr
 
 ## Laboratory Exercises
 
-### 1. Lab 1: Hall Effect Sensor Calibration
+### Lab 1: Hall Effect Sensor Calibration
 *Experimental characterization and calibration of an SS49E Hall magnetic sensor.*
 
 * **Key Tasks:**
@@ -12,7 +12,7 @@ This repository showcases the laboratory exercises, Arduino source codes, and pr
   * **Data Analysis:** Analyzed the relationship between the applied current (I), magnetic field strength (H), magnetic induction (B), and the resulting sensor voltage (V) to generate the sensor's calibration curve and assess magnetic hysteresis.
 * **Tech Stack:** Hall Effect Sensors, Sensor Calibration, Data Processing (Excel).
 
-### 2. Lab 2: Magnetic Position and Field Sensors (Fluxgate)
+### Lab 2: Magnetic Position and Field Sensors (Fluxgate)
 *Study and experimental characterization of fluxgate magnetic sensors.*
 
 * **Key Tasks:**
@@ -21,7 +21,7 @@ This repository showcases the laboratory exercises, Arduino source codes, and pr
   * **Data Analysis:** Processed experimental data and created plots for $\Delta t$ vs. DC offset and voltage vs. displacement.
 * **Tech Stack:** Fluxgate Sensors, Sensor Analysis, Data Processing (Excel).
 
-### 3. Labs 3 & 4: Arduino and Embedded Applications
+### Labs 3 & 4: Arduino and Embedded Applications
 *Practical implementation of microcontroller-based systems using Arduino.*
 
 * **Key Tasks:**
